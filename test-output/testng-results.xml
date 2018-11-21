@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9134" started-at="2018-11-20T16:25:58Z" finished-at="2018-11-20T16:26:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9134" started-at="2018-11-20T16:25:58Z" finished-at="2018-11-20T16:26:07Z">
+      <class name="com.example.cass.CassApplicationTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.example.cass.CassApplicationTests@6325a3ee]" name="setUp" is-config="true" duration-ms="9080" started-at="2018-11-20T16:25:58Z" finished-at="2018-11-20T16:26:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="contextLoads()[pri:0, instance:com.example.cass.CassApplicationTests@6325a3ee]" name="contextLoads" duration-ms="7" started-at="2018-11-20T16:26:07Z" finished-at="2018-11-20T16:26:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contextLoads -->
+      </class> <!-- com.example.cass.CassApplicationTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
